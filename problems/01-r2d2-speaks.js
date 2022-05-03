@@ -12,11 +12,6 @@
         pause for 800ms
         print 'beep'
         pause for 400ms
-
-    There are no mocha tests for this code.
-    Run the following two lines beneath the function
-    to see if your code demonstrates the expected behavior.
-   
 */
 
 function r2d2Speaks(code) {
